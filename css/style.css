@@ -1,0 +1,73 @@
+
+.hero-caption{
+    font-size: 70px;
+    display: block;
+    align-content: center;
+    margin-left: 90px;
+    color: #4D312C;
+}
+.pp{
+   display: block;
+   margin-left: 90px;
+   color: #94817e;
+   
+}
+
+.fon{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+.btn{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 550px;
+    
+}
+.btn-start{
+    margin-top: 20px;
+    margin-left: 90PX;
+    font-size: 30px;
+    background-color: #FE5F41;
+    border-radius: 50px;
+}
+.play{
+    margin-left: 20px;
+    color: #FE5F41;
+    font-size: 30px;
+    text-decoration: none;
+}
+.best{
+
+    color: #4D312C;
+    font-family: 'Mitr', sans-serif;
+}
+.col{
+    background-color: #fdeff8;
+}
+.t{
+    color: #4D312C;
+    text-decoration: none;
+    font-size: 20px;
+}
+.s{
+    margin-left: 0%;
+    border-radius: 20px;
+    margin-top: 50px;
+    height: 600px;
+    width: 90%;
+}
+.n{
+    color: #4D312c  ;
+}
+.i{
+    margin-left: 5px;
+}
+.py-2{
+    text-decoration: none;
+    color: #5E5E5E;
+}
+.fa-brands{
+    color: #FE5F41;
+}
